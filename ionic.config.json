@@ -1,0 +1,8 @@
+{
+  "name": "Le test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fa2ffdaa"
+}
